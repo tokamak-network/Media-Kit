@@ -1,2 +1,3 @@
 # Media-Kit
-This is media kit for Tokamak Network, where you can find logos and tokens for Tokamak Network Ecosystem
+Welcome to the Tokamak Network Media Kit. Here you can find logos, icons, and other media assets for Tokamak Network and related services.
+
