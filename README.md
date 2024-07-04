@@ -5,7 +5,7 @@ Welcome to the Tokamak Network Media Kit. Here you can find logos, icons, and ot
 
 You can download the latest version of the media kit [from the releases tab](html.link). These files are automatically generated and are the best way to ensure you are using the latest version of the media kit.
 
-## 📂 File Structure
+## 📂 Media Content
 
 Here are some quick hyperlinks for the impatient:
 
